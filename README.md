@@ -1,2 +1,2 @@
 # lwk-means
-Some example runs are provided in "examples.mat" file of this repository. 
+Some example runs are provided in "examples.m" file of this repository. 
