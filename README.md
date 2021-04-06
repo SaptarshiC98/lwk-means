@@ -5,16 +5,4 @@ If you find the codes useful please acknowledge so by citing our paper,
 
 Chakraborty, S., & Das, S. (2020). Detecting Meaningful Clusters from High-dimensional Data: A Strongly Consistent Sparse Center-based Clustering Approach. IEEE Transactions on Pattern Analysis and Machine Intelligence.
 
-Bibtex:
-@article{chakraborty2020detecting,
 
-  title={Detecting Meaningful Clusters from High-dimensional Data: A Strongly Consistent Sparse Center-based Clustering Approach},
-  
-  author={Chakraborty, Saptarshi and Das, Swagatam},
-  
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  
-  year={2020},
-  
-  publisher={IEEE}
-}
